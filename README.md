@@ -23,6 +23,10 @@ The default assistant uses mock responses. Optional live LLM integration is sepa
 
 A responsive HTML/CSS website with project case studies, experience, skills, and professional links. Built with semantic structure, keyboard-accessible navigation, and layouts for mobile and desktop.
 
+### [Career Hub](https://github.com/ramanjichalla5/career-hub)
+
+A TypeScript/React career workspace with candidate profiles, application tracking, platform sign-in, user-scoped data APIs, and a job-agent preflight workflow. The local dashboard supports filtered fresher/intern/junior notifications and evidence-based application counts. Shared hosting and external automatic submission integration are in progress.
+
 ## Skills
 
 | Area | Tools and methods |
